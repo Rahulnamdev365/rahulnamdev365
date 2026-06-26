@@ -1,0 +1,52 @@
+# Hi, I'm Rahul Namdev 👋
+
+## Senior Microsoft 365 Engineer
+
+📍 Delhi-NCR, India  
+🌍 Open to Relocate to Germany / Europe
+
+---
+
+## About Me
+
+I'm a Senior Microsoft 365 Engineer with over 9 years of experience managing enterprise Microsoft cloud environments across hybrid infrastructures.
+
+I currently manage a hybrid Microsoft 365 environment supporting more than **7,500 users** across five Exchange domains.
+
+My areas of expertise include:
+
+- Microsoft 365
+- Exchange Online
+- Microsoft Entra ID
+- Microsoft Purview
+- SharePoint Online
+- OneDrive
+- Windows Server
+- PowerShell
+- Identity & Access Management
+
+---
+
+## Microsoft Certifications
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+---
+
+## Currently Learning
+
+- Microsoft Graph PowerShell
+- Advanced Exchange Online
+- Microsoft Security
+- German (B1)
+
+---
+
+## Let's Connect
+
+💼 LinkedIn:  
+www.linkedin.com/in/rahul-namdev
+
+📧 Email:  
+0rahul.777@gmail.com
