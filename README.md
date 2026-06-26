@@ -53,3 +53,11 @@ www.linkedin.com/in/rahul-namdev
 
 📧 Email:  
 0rahul.777@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulnamdev365&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnamdev365&layout=compact&theme=default&hide_border=true)
