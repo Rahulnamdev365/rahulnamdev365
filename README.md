@@ -5,7 +5,7 @@
 💙 Passionate about Microsoft 365, Identity & Access Management, Exchange Online, and PowerShell automation.
 
 📍 Delhi-NCR, India
-🌍 Open to Relocate to Germany / Europe
+🌍 Microsoft 365 | Exchange Online | Entra ID | PowerShell
 
 ---
 
@@ -61,6 +61,14 @@ These repositories showcase PowerShell automation, Microsoft 365 administration,
 * 🔹 Exchange-Online-Guide *(Coming Soon)*
 * 🔹 Entra-ID-Lab *(Coming Soon)*
 * 🔹 Microsoft365-Documentation *(Coming Soon)*
+
+---
+
+## 💡 What You'll Find Here
+
+This GitHub profile showcases PowerShell automation, Microsoft 365 administration, technical documentation, and lab projects based on real-world enterprise scenarios.
+
+New repositories and learning projects will be added regularly.
 
 ---
 
