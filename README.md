@@ -30,12 +30,10 @@ My areas of expertise include:
 ## Microsoft Certifications
 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-  https://learn.microsoft.com/api/credentials/share/en-us/RahulNamdev-8738/E05B2552C9189086?
-sharingId=DC3FD1F11F058A75
+  https://learn.microsoft.com/api/credentials/share/en-us/RahulNamdev-8738/E05B2552C9189086?sharingId=DC3FD1F11F058A75
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-  https://learn.microsoft.com/api/credentials/share/en-us/RahulNamdev-8738/13E699706FD2FB37?
-sharingId=DC3FD1F11F058A75 
+  https://learn.microsoft.com/api/credentials/share/en-us/RahulNamdev-8738/13E699706FD2FB37?sharingId=DC3FD1F11F058A75 
 
 ---
 
