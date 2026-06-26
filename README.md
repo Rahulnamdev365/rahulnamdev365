@@ -1,5 +1,5 @@
 # Hi, I'm Rahul Namdev 👋
-
+# Passionate about Microsoft 365, Identity & Access Management, Exchange Online, and PowerShell automation.
 ## Senior Microsoft 365 Engineer
 
 📍 Delhi-NCR, India  
