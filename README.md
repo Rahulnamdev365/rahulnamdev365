@@ -11,7 +11,7 @@
 
 I'm a Senior Microsoft 365 Engineer with over 9 years of experience managing enterprise Microsoft cloud environments across hybrid infrastructures.
 
-I currently manage a hybrid Microsoft 365 environment supporting more than **7,500 users** across five Exchange domains.
+I currently manage a hybrid Microsoft 365 environment supporting over 7,500 users across five Exchange domains, with responsibilities spanning messaging, identity, collaboration, and security.
 
 My areas of expertise include:
 
